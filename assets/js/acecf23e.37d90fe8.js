@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkDAO_Model_Law_website_builder_with_Docusaurus=self.webpackChunkDAO_Model_Law_website_builder_with_Docusaurus||[]).push([[7393],{1838:e=>{e.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog"}')}}]);
